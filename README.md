@@ -36,13 +36,3 @@ Execute the following command in your terminal to start the web application:
 streamlit run app.py
 ```
 Access the application by navigating to the Streamlit-provided URL in your web browser.
-
-
-
-
-## Contact
-- Project Repository: https://github.com/ingindIsrael/definitionDrawer
-
----
-
-Adjust the README according to your project's specific requirements, including any additional setup instructions or features.
